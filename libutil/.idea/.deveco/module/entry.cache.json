@@ -1,0 +1,14 @@
+{
+	"BuildOptions":{
+		"SELECT_BUILD_TARGET":"default",
+		"BUILD_PATH":{
+			"OUTPUT_PATH":"C:\\Users\\HP\\DevEcoStudioProjects\\tfjs_test\\entry\\build\\default\\outputs\\default",
+			"RES_PATH":"C:\\Users\\HP\\DevEcoStudioProjects\\tfjs_test\\entry\\build\\default\\intermediates\\res\\default",
+			"ETS_SUPER_VISUAL_PATH":"C:\\Users\\HP\\DevEcoStudioProjects\\tfjs_test\\entry\\build\\default\\cache\\default\\CompileETS",
+			"JS_ASSETS_PATH":"C:\\Users\\HP\\DevEcoStudioProjects\\tfjs_test\\entry\\build\\default\\intermediates\\assets\\default",
+			"RES_PROFILE_PATH":"C:\\Users\\HP\\DevEcoStudioProjects\\tfjs_test\\entry\\build\\default\\intermediates\\res\\default\\resources\\base\\profile",
+			"WORKER_LOADER":"C:\\Users\\HP\\DevEcoStudioProjects\\tfjs_test\\entry\\build\\default\\intermediates\\loader\\default\\loader.json",
+			"MANIFEST_JSON":"C:\\Users\\HP\\DevEcoStudioProjects\\tfjs_test\\entry\\build\\default\\intermediates\\manifest\\default"
+		}
+	}
+}
